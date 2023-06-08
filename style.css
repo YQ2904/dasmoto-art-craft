@@ -1,0 +1,48 @@
+.header {
+    background-image: url(img/pattern.webp);
+    height: 115px;
+  
+}
+.header p{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.hacksaw {
+    background-color: mediumspringgreen;
+    height: 35px;
+    margin: 35px 0px 25px 0px;
+    }
+
+.hacksaw p, .frame p, .paint p {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h3, p{
+    font-family:  Helvetica;
+}
+
+
+
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frame {
+    background-color: lightcoral;
+    height: 35px;
+    margin: 45px 0px 25px 0px;
+}
+
+.paint {
+    background-color: skyblue;
+    height: 35px;
+    margin: 45px 0px 25px 0px;
+}
